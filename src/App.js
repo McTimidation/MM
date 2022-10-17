@@ -1,9 +1,14 @@
-import Header from './header.js';
+import PageLayout from './layout.jsx';
 import './App.css';
+import NavBar from './navbar.jsx';
+
 
 function App() {
   return (
-    <Header />
+    <PageLayout>
+      <NavBar />
+      
+    </PageLayout>
   );
 }
 

@@ -32,7 +32,7 @@ h2 {
   margin: 0 0 0.5em 0;
 }
 
-.img-frame img {
+.img-frame #propic {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -50,4 +50,13 @@ h2 {
   border-radius: 50%;
   overflow: hidden;
 
+}
+
+.card-img-top {
+  max-width: 155px !important;
+  max-height: 155px !important;
+}
+
+.card {
+  width: 15rem;
 }

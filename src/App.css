@@ -1,6 +1,6 @@
 .container {
-  margin: 50px auto;
-  padding: 5px;
+  margin: auto auto 0px auto !important;
+  padding: 0px;
   max-width: 650px;
 }
 @media (max-width: 600px) {
@@ -8,20 +8,30 @@
     padding: 20px;
   }
 }
+html, body {
+  background-color: black !important;
+}
 
 .header-section {
+  margin: auto auto 0px auto;
+  background-image: url("https://images-assets.nasa.gov/image/PIA20498/PIA20498~orig.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
+  height: 100vh;
 }
 
 .header-frame {
   max-width: 350px;
+  color: aliceblue;
 }
 
 
 h1 {
+  color: aliceblue;
   font-weight: 400;
   margin: 0;
 }

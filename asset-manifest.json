@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d9ca868.css",
-    "main.js": "/static/js/main.b3af8a53.js",
+    "main.css": "/static/css/main.69ea6150.css",
+    "main.js": "/static/js/main.0fb748ff.js",
     "static/js/787.4fd9eb14.chunk.js": "/static/js/787.4fd9eb14.chunk.js",
-    "static/media/mcgraw-michael.jpg": "/static/media/mcgraw-michael.87809f295e70a0283086.jpg",
+    "static/media/sqaure_headshot.jpg": "/static/media/sqaure_headshot.11a328df8b50b9bbdcf5.jpg",
     "static/media/random-story-generator.jpg": "/static/media/random-story-generator.fb4c81d105b82c866a63.jpg",
     "static/media/weather.JPG": "/static/media/weather.f7bcb2d3e0ba169e9696.JPG",
     "static/media/brewery-api.jpg": "/static/media/brewery-api.544b65353c075bb78bbb.jpg",
@@ -11,12 +11,12 @@
     "static/media/tic.JPG": "/static/media/tic.2836b192e099a67efb11.JPG",
     "static/media/mind-reader.JPG": "/static/media/mind-reader.6aef9475858d38b1ecfa.JPG",
     "index.html": "/index.html",
-    "main.0d9ca868.css.map": "/static/css/main.0d9ca868.css.map",
-    "main.b3af8a53.js.map": "/static/js/main.b3af8a53.js.map",
+    "main.69ea6150.css.map": "/static/css/main.69ea6150.css.map",
+    "main.0fb748ff.js.map": "/static/js/main.0fb748ff.js.map",
     "787.4fd9eb14.chunk.js.map": "/static/js/787.4fd9eb14.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d9ca868.css",
-    "static/js/main.b3af8a53.js"
+    "static/css/main.69ea6150.css",
+    "static/js/main.0fb748ff.js"
   ]
 }

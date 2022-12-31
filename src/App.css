@@ -21,7 +21,7 @@ html, body {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  height: 100vh;
+  height: 75vh;
 }
 
 .header-frame {
@@ -62,11 +62,29 @@ h2 {
 
 }
 
+.card-body {
+  justify-content: center;
+}
+
 .card-img-top {
   max-width: 155px !important;
   max-height: 155px !important;
 }
 
+.card-title {
+  text-align: center !important;
+}
+
 .card {
   width: 15rem;
+}
+
+.navbar {
+  margin-inline: auto;
+  width: 50%;
+}
+
+.projButton {
+  padding: 0px !important;
+  margin-inline: auto !important;
 }

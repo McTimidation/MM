@@ -8,8 +8,7 @@ function PageLayout(props) {
     return(
         <>
             <Header />
-                {props.children}
-            <Footer />
+            {props.children}
         </>
     )
 }

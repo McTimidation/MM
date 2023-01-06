@@ -18,12 +18,12 @@ function ProjectCard(props) {
                     <a target={'#'} href={props.repoLink} className="btn btn-primary align-self-center projButton">Go to Code</a>
                 </div>
         </div>
-    )
+    ) 
 }
 
 function PortfolioPage( { state } ) {
 
-    // if (state === 'portfolio') {
+    if (state === 'portfolio') {
     return (
         <>
         <div className='row'>
@@ -37,7 +37,7 @@ function PortfolioPage( { state } ) {
             <ProjectCard title={'Brewery Locator'} liveDemo={'#'} repoLink={'https://github.com/McTimidation/beer-api'} imgsrc={brewAPI} text={'An app that will show you every brewery for any city'} />
         </div>
         </>
-    ) 
+    ) }
 }
 
 export default PortfolioPage;

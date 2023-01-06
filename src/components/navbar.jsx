@@ -1,6 +1,6 @@
 import React from 'react';
 
-function NavBar( { setState } ) {
+function NavBar( { setState, setModalShow } ) {
     return(
         <nav className="navbar">
             <div className="container">
@@ -9,7 +9,7 @@ function NavBar( { setState } ) {
                 <button className="btn btn-outline-light" onClick={() => 
                 {setState('portfolio')}}>Portfolio</button>
                 <button className="btn btn-outline-light" onClick={() => 
-                {setState('contact')}}>Get in Touch</button>
+                {setModalShow(true)}}>Get in Touch</button>
             </div>
         </nav>
     )

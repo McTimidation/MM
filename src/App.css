@@ -29,6 +29,18 @@ html, body {
   color: aliceblue;
 }
 
+h4, #modalTitle {
+  text-align: center !important;
+}
+
+#modalTitle {
+  margin-inline: auto;
+}
+
+#closeBtn {
+  align-self: center !important;
+  margin-inline: auto;
+}
 
 h1 {
   color: aliceblue;
@@ -50,6 +62,10 @@ h2 {
   transform: translate(-50%, -50%);
   height: 100%;
 
+}
+
+p {
+  color: aliceblue;
 }
 
 .img-frame {

@@ -8,13 +8,16 @@ import { useState } from 'react';
 
 function App() {
   const [ state, setState ] = useState('home');
+  const [modalShow, setModalShow] = useState(false);
   return (
     <PageLayout>
       <NavBar
         setState={setState}
+        setModalShow={setModalShow}
       />
       <ContactCard
-        state={state}
+        show={modalShow}
+        onHide={() => setModalShow(false)}
       />
       <Bio
         state={state}

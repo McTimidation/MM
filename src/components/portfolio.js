@@ -1,7 +1,7 @@
 import restaurant from '../images/react-restaurant.jpg';
 import weather from '../images/weather.JPG';
 import ticTac from '../images/tic.JPG';
-import randoStory from '../images/random-story-generator.jpg';
+import randoStory from '../images/Screenshot 2023-11-13 142500.png';
 import mindRead from '../images/mind-reader.JPG';
 import brewAPI from '../images/brewery-api.jpg';
 
@@ -32,7 +32,7 @@ function PortfolioPage( { state } ) {
             <ProjectCard title={'Tic Tac Toe'} liveDemo={'#'} repoLink={'https://github.com/McTimidation/tic-tac-toe/blob/main/script/sandbox.js'} imgsrc={ticTac} text={'A simple game of Tic Tac toe'} />
         </div>
         <div className='row'>
-            <ProjectCard title={'Random Story Generator'} liveDemo={'https://github.com/McTimidation/random-story-generator'} repoLink={'#'} imgsrc={randoStory} text={'A fun random story generator'} />
+            <ProjectCard title={'To Do List'} liveDemo={'https://mctimidation.github.io/todo-list/'} repoLink={'#'} imgsrc={randoStory} text={'A fun random story generator'} />
             <ProjectCard title={'Mind Reader'} liveDemo={'#'} repoLink={'https://github.com/McTimidation/mind-reader'} imgsrc={mindRead} text={'An app that can read your mind!'} />
             <ProjectCard title={'Brewery Locator'} liveDemo={'#'} repoLink={'https://github.com/McTimidation/beer-api'} imgsrc={brewAPI} text={'An app that will show you every brewery for any city'} />
         </div>

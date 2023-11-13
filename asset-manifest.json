@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.915a6adf.css",
-    "main.js": "/static/js/main.27055fc0.js",
+    "main.js": "/static/js/main.5be3c028.js",
     "static/js/787.4fd9eb14.chunk.js": "/static/js/787.4fd9eb14.chunk.js",
     "static/media/sqaure_headshot.jpg": "/static/media/sqaure_headshot.11a328df8b50b9bbdcf5.jpg",
-    "static/media/random-story-generator.jpg": "/static/media/random-story-generator.fb4c81d105b82c866a63.jpg",
     "static/media/weather.JPG": "/static/media/weather.f7bcb2d3e0ba169e9696.JPG",
     "static/media/brewery-api.jpg": "/static/media/brewery-api.544b65353c075bb78bbb.jpg",
     "static/media/react-restaurant.jpg": "/static/media/react-restaurant.033ea06b5318ada97399.jpg",
@@ -12,11 +11,11 @@
     "static/media/mind-reader.JPG": "/static/media/mind-reader.6aef9475858d38b1ecfa.JPG",
     "index.html": "/index.html",
     "main.915a6adf.css.map": "/static/css/main.915a6adf.css.map",
-    "main.27055fc0.js.map": "/static/js/main.27055fc0.js.map",
+    "main.5be3c028.js.map": "/static/js/main.5be3c028.js.map",
     "787.4fd9eb14.chunk.js.map": "/static/js/787.4fd9eb14.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.915a6adf.css",
-    "static/js/main.27055fc0.js"
+    "static/js/main.5be3c028.js"
   ]
 }

@@ -22,7 +22,7 @@ function ProjectCard(props) {
 }
 
 function PortfolioPage( { state } ) {
-
+console.log('success')
     if (state === 'portfolio') {
     return (
         <>

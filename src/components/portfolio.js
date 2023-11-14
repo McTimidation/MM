@@ -34,7 +34,7 @@ console.log('success')
         <div className='row'>
             <ProjectCard title={'To Do List'} liveDemo={'https://mctimidation.github.io/todo-list/'} repoLink={'https://github.com/McTimidation/todo-list'} imgsrc={randoStory} text={'A fun random story generator'} />
             <ProjectCard title={'Mind Reader'} liveDemo={'https://mctimidation.github.io/mind-reader/'} repoLink={'https://github.com/McTimidation/mind-reader'} imgsrc={mindRead} text={'An app that can read your mind!'} />
-            <ProjectCard title={'Brewery Locator'} liveDemo={'https://mctimidation.github.io/mind-reader/'} repoLink={'https://github.com/McTimidation/beer-api'} imgsrc={brewAPI} text={'An app that will show you every brewery for any city'} />
+            <ProjectCard title={'Brewery Locator'} liveDemo={'https://beer-api-flame.vercel.app/'} repoLink={'https://github.com/McTimidation/beer-api'} imgsrc={brewAPI} text={'An app that will show you every brewery for any city'} />
         </div>
         </>
     ) }
